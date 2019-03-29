@@ -1,0 +1,8 @@
+client_id: RpeUr4DVu0XmExzyPsjzqbb35eF4xIZP
+client_secret: OAsHHQYB20G4DJP8MlGclPTMX6hNStH1UJKoWMeG
+redirect_url: http://localhost:8000/uber/connect
+scopes:
+    - profile
+    - history
+    - places
+    - all_trips
